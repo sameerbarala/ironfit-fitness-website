@@ -4,7 +4,7 @@ A modern, responsive gym website built using HTML5, CSS3, and Vanilla JavaScript
 
 ## 🌐 Live Demo
 
-Coming soon — deployment in progress.
+[View Live Website](https://ironfit-fitness-website.vercel.app/)
 
 ## 📌 About the Project
 
