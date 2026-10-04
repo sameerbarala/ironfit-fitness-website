@@ -4,7 +4,7 @@ A modern, responsive gym website built using HTML5, CSS3, and Vanilla JavaScript
 
 ## 🌐 Live Demo
 
-[View Live Website](ADD-YOUR-LIVE-LINK-HERE)
+Coming soon — deployment in progress.
 
 ## 📌 About the Project
 
